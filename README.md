@@ -42,8 +42,8 @@ Many users struggle with tracking groceries, avoiding duplicate purchases, and m
 Clone the repository:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/fridgifi.git](https://github.com/YOUR_USERNAME/fridgifi.git)
-cd fridgifi
+git clone https://github.com/Wilkinsonemily/FRIDGIFI---Smart-Pantry-Tracking-Application.git
+cd FRIDGIFI---Smart-Pantry-Tracking-Application
 ````
 
 Install dependencies:
